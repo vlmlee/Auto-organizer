@@ -7,11 +7,10 @@ You can nest file directories and specify your file extensions like this:
 ```
     "a.b.c.txt": "/dir/c/b/a/"
   
-    // or
+    or
     
     ".icon.png": "/pictures/icon/",
     ".png": "/pictures/"
-    
 ```
 
 This will send that specific extension to that directory. 
