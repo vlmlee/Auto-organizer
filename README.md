@@ -1,6 +1,6 @@
 # Auto-organizer
 
-To use, specify the file extension to look for and the directory to send thoses in config.json.
+To use, specify the file extension to look for and the directory to send those files in config.json.
 
 You can nest file directories and specify your file extensions like this:
 
